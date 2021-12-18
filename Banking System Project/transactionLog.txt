@@ -1,0 +1,6 @@
+TranactionID	AccountID	Type	Amount	Period	Status
+
+1002	1	deposit	10	2021-12-06	success
+1003	1	withdrawal	1050	2021-12-06	success
+1004	1	deposit	10	2021-12-06	success
+1005	1	deposit	40	2021-12-18	success
